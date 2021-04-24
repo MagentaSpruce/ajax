@@ -7,7 +7,9 @@ This project helped me to learn and understand better:
 1) JSON data format
 2) RegExp method
 3) fetch() request
-4) 
+4) Array methods
+5) Creating functions
+6) 
 There are no known bus assiciated with this project. No improvements are slated. It is mostly conceptual in purpose, although, it could be retooled and repurposed with relative ease in various use cases.
 
 A simple walkthrough and explanation of the code is below:
